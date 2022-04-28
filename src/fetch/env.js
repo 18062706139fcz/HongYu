@@ -1,0 +1,2 @@
+let baseUrl = "/";
+export {baseUrl};
